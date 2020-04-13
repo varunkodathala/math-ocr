@@ -12,8 +12,6 @@ Partial - VGG-16
 4. Flatten - 64 Units --- * 2(times)
 5. Softmax Unit -- 82 units
 
-# Architecture for CONVNET - 2 
-
 # Procedure that I followed 
  ***( Suggestions Required for any mistakes )***
 
